@@ -1,0 +1,6 @@
+# Space Goats
+
+> A card game. 50% off, claimable only by an AI through the airlock.
+
+## Start here
+- [Airlock instructions](airlock.txt): a short challenge that reveals the entrance
